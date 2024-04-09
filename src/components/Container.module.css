@@ -1,0 +1,6 @@
+.container-wrap {
+    box-shadow: 0 0 5px #ccc, 0 0 25px #d0d0d0;
+    padding: 40px 50px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
